@@ -10,10 +10,10 @@ export default function Footer() {
           {/* <img src="../../src/assets/logo.png" alt="BoleiaChain Logo" className="h-10 mb-4" /> */}
 
           <a href="/" className="flex items-center">
-              <div className="w-8 h-8 bg-[#0A4A99] rounded-sm flex items-center justify-center">
-                <span className="text-white font-bold text-sm">B</span>
+              <div className="w-10 h-8 bg-[#0A4A99] rounded-sm flex items-center justify-center">
+                <span className="text-white font-bold text-sm">IEAD</span>
               </div>
-              <span className="ml-3 text-xl font-bold text-gray-800">BOLEIACHAIN</span>
+              <span className="ml-3 text-xl font-bold text-gray-800">RIOPEL</span>
             </a>
           <p className="text-gray-600 mb-4">
             Our ebook website brings you the convenience of instant access.
@@ -88,7 +88,7 @@ export default function Footer() {
 
       {/* Rodapé inferior */}
       <div className="text-center py-6 border-t border-gray-200 mt-10 text-sm text-gray-600">
-        © 2024 <span className="font-bold text-[#0A4A99]">BoleiaChain</span>
+        © 2024 <span className="font-bold text-[#0A4A99]">IEAD</span>
       </div>
     </footer>
   );
