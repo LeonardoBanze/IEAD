@@ -8,7 +8,7 @@ export default function LiveSermons() {
     {
       id: 1,
       title: 'Culto de Oração - Ao Vivo',
-      pastor: 'Pastor João Silva',
+      pastor: 'Pastor Alfredo Miambo',
       status: 'live',
       viewers: 147,
       startTime: '18:00',
@@ -21,7 +21,7 @@ export default function LiveSermons() {
     {
       id: 1,
       title: 'A Força da Fé em Tempos Difíceis',
-      pastor: 'Pastor João Silva',
+      pastor: 'Pastor Alfredo Miambo',
       date: '2025-08-11',
       dateFormatted: '11 de Agosto',
       duration: '45:23',
@@ -47,7 +47,7 @@ export default function LiveSermons() {
     {
       id: 3,
       title: 'Libertação e Cura pela Palavra',
-      pastor: 'Pastor João Silva',
+      pastor: 'Pastor Alfredo Miambo',
       date: '2025-08-04',
       dateFormatted: '4 de Agosto',
       duration: '52:18',
@@ -73,7 +73,7 @@ export default function LiveSermons() {
     {
       id: 5,
       title: 'Evangelizando com Amor',
-      pastor: 'Pastor João Silva',
+      pastor: 'Pastor Alfredo Miambo',
       date: '2025-07-30',
       dateFormatted: '30 de Julho',
       duration: '41:07',

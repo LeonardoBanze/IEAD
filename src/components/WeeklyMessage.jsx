@@ -75,7 +75,7 @@ export default function WeeklyMessage() {
             <div className="mt-8 pt-6 border-t border-gray-200">
               <div className="flex items-center justify-between text-sm text-gray-600">
                 <span>12 de Agosto, 2025</span>
-                <span>Pastor João Silva</span>
+                <span>Pastor Alfredo Miambo</span>
               </div>
             </div>
           </div>
@@ -107,7 +107,7 @@ export default function WeeklyMessage() {
                     A Força da Fé em Tempos Difíceis
                   </h4>
                   <p className="text-gray-200 text-sm">
-                    Duração: 35 minutos • Pastor João Silva
+                    Duração: 35 minutos • Pastor Alfredo Miambo
                   </p>
                 </div>
               </div>
